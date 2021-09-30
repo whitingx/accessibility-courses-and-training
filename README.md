@@ -1,2 +1,2 @@
-# accessibility-courses-and-training
-A collection of courses and training realting to accessibility for indivudals and Teams.
+# Accessibility Courses & Training
+A collection of courses and training relating to accessibility for individuals and Teams.
